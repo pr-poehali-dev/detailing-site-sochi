@@ -128,7 +128,7 @@ const Index = () => {
                 Детейлинг<br />в г. Сочи<br />"<span className="text-primary">К2 Сервис</span>"
               </h1>
               <p className="text-lg md:text-xl text-muted-foreground mb-8">
-                Профессиональный уход за вашим автомобилем. Полировка, химчистка, керамическое покрытие и многое другое.
+                Профессиональный уход за вашим автомобилем.
               </p>
               <div className="flex flex-col sm:flex-row gap-4">
                 <Button size="lg" className="text-lg">

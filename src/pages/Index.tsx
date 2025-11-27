@@ -126,7 +126,7 @@ const Index = () => {
           <div className="grid lg:grid-cols-2 gap-12 items-center">
             <div className="animate-fade-in">
               <h1 className="text-4xl md:text-6xl font-bold mb-6 leading-tight">
-                Премиум детейлинг <span className="text-primary">в Сочи</span>
+                <span className="text-primary">К2 Сервис</span>
               </h1>
               <p className="text-lg md:text-xl text-muted-foreground mb-8">
                 Профессиональный уход за вашим автомобилем. Полировка, химчистка, керамическое покрытие и многое другое.

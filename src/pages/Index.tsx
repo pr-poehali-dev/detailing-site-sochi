@@ -156,7 +156,7 @@ const Index = () => {
       <section id="about" className="py-20 bg-muted/30">
         <div className="container px-4">
           <div className="text-center mb-16 animate-fade-in">
-            <h2 className="text-3xl md:text-5xl font-bold mb-4">О нашем центре</h2>
+            <h2 className="text-3xl md:text-5xl font-bold mb-4">О нас</h2>
             <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
               Более 10 лет заботимся о красоте и защите вашего автомобиля в Сочи
             </p>

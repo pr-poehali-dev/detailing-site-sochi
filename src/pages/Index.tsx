@@ -105,7 +105,7 @@ const Index = () => {
         <div className="container flex h-16 items-center justify-between">
           <div className="flex items-center gap-2">
             <Icon name="Sparkles" className="text-primary" size={28} />
-            <span className="text-xl font-bold">ДетейлингСочи</span>
+            <span className="text-xl font-bold">К2 Сервис</span>
           </div>
           <nav className="hidden md:flex gap-6">
             <a href="#home" className="text-sm font-medium hover:text-primary transition-colors">Главная</a>
@@ -351,7 +351,7 @@ const Index = () => {
           <div className="flex flex-col md:flex-row justify-between items-center gap-4">
             <div className="flex items-center gap-2">
               <Icon name="Sparkles" className="text-primary" size={24} />
-              <span className="font-bold">ДетейлингСочи</span>
+              <span className="font-bold">К2 Сервис</span>
             </div>
             <p className="text-sm text-muted-foreground">© 2024 Все права защищены</p>
             <div className="flex gap-4">

@@ -125,8 +125,8 @@ const Index = () => {
         <div className="container px-4">
           <div className="grid lg:grid-cols-2 gap-12 items-center">
             <div className="animate-fade-in">
-              <h1 className="text-4xl md:text-6xl font-bold mb-6 leading-tight text-foreground">
-                Детейлинг в г. Сочи "<span className="text-foreground">К2 Сервис</span>"
+              <h1 className="text-4xl md:text-6xl font-bold mb-6 leading-relaxed text-foreground">
+                Детейлинг<br />в г. Сочи<br />"<span className="text-primary">К2 Сервис</span>"
               </h1>
               <p className="text-lg md:text-xl text-muted-foreground mb-8">
                 Профессиональный уход за вашим автомобилем. Полировка, химчистка, керамическое покрытие и многое другое.

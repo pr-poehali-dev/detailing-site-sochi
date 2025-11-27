@@ -103,9 +103,8 @@ const Index = () => {
     <div className="min-h-screen">
       <header className="sticky top-0 z-50 w-full border-b bg-background/95 backdrop-blur supports-[backdrop-filter]:bg-background/60">
         <div className="container flex h-16 items-center justify-between">
-          <div className="flex items-center gap-2">
-            <Icon name="Sparkles" className="text-primary" size={28} />
-            <span className="text-xl font-bold">К2 Сервис</span>
+          <div className="flex items-center gap-3">
+            <img src="https://cdn.poehali.dev/files/7ae4812b-526a-477d-8b36-8d4f5dad13cd.jpg" alt="К2 Сервис" className="h-12 w-auto" />
           </div>
           <nav className="hidden md:flex gap-6">
             <a href="#home" className="text-sm font-medium hover:text-primary transition-colors">Главная</a>
@@ -349,9 +348,8 @@ const Index = () => {
       <footer className="border-t bg-muted/30 py-12">
         <div className="container px-4">
           <div className="flex flex-col md:flex-row justify-between items-center gap-4">
-            <div className="flex items-center gap-2">
-              <Icon name="Sparkles" className="text-primary" size={24} />
-              <span className="font-bold">К2 Сервис</span>
+            <div className="flex items-center gap-3">
+              <img src="https://cdn.poehali.dev/files/7ae4812b-526a-477d-8b36-8d4f5dad13cd.jpg" alt="К2 Сервис" className="h-10 w-auto" />
             </div>
             <p className="text-sm text-muted-foreground">© 2024 Все права защищены</p>
             <div className="flex gap-4">
